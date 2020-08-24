@@ -16,7 +16,7 @@ int main(void)
    printf("Area = %f ",area);
    }
   else{
-   printf("No calculate L2 less than L1 %.2f percent",p);
+   printf("No calculate L2 more than L1 %.2f percent",p);
    }
 	return 0;
 }
